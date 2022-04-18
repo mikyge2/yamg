@@ -1,9 +1,3 @@
 python-telegram-bot==13.11
 telegram==0.0.1
 requests==2.25.1
-import Constants as keys
-from telegram.ext import *
-from telegram import update
-import Responses as R
-import json
-import os
